@@ -1,0 +1,6 @@
+CREATE DATABASE collage;
+CREATE DATABASE IF NOT EXISTS collage;
+
+
+DROP DATABASE collage;
+DROP DATABASE if exists collage;
